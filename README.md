@@ -2,3 +2,6 @@ This code was created by WPI's Lunar Rover MQP team. Much of this code has multi
 
 Many of these files are reliant on other functions or specific settings. The matlab files specifically may rely on external add-ons that are not included in every license.
 The python code is mostly basic functions, but does use separate Adafruit packages that are available, specifically Adafruit Blinka.
+
+
+Final updates should be complete by May 2024. No License is attached, but everyone is welcome to use any of the provided code.
